@@ -3367,6 +3367,60 @@
                 "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472"
             },
             "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 63,
+            "title": "Aktivirung des Artikels 146 GG",
+            "articles": {
+                "updated": [
+                    "0", "3", "19", "20", "23", "145", "146"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Andreas Pieper",
+                    "role": "Physiker"
+                }
+            ],
+            "date": "2018-08-10",
+            "announced": "2018-08-10",
+            "initiativeOf": "Volker"
+        },
+        {
+            "id": 64,
+            "title": "Hoheitsrechte und militäriche Souveränität",
+            "articles": {
+                "updated": [
+                    "24"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Andreas Pieper",
+                    "role": "Physiker"
+                }
+            ],
+            "date": "2018-08-10",
+            "announced": "2018-08-10",
+            "initiativeOf": "Volker"
+        },
+        {
+            "id": 65,
+            "title": "Digitale und monetäre Grundrechte",
+            "articles": {
+                "updated": [
+                    "3", "5", "10"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Andreas Pieper",
+                    "role": "Physiker"
+                }
+            ],
+            "date": "2018-08-10",
+            "announced": "2018-08-10",
+            "initiativeOf": "Volker"
         }
     ]
 }

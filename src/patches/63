@@ -1,0 +1,484 @@
+--- a/000.md
++++ b/000.md
+@@ -1,17 +1,17 @@
+-% Grundgesetz
++% Verfassung (Entwurf)
+   für die Bundesrepublik Deutschland
+ %
+-% vom 23. Mai 1949.
++% vom TT. MM 20jj.
+ 
+ 
+ # Eingangsformel
+ 
+-Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres 1949 vom Parlamentarischen Rat beschlossene Grundgesetz für  die Bundesrepublik Deutschland in der Woche vom 16.-22. Mai 1949 durch die Volksvertretungen von mehr als Zweidritteln der beteiligten deutschen Länder angenommen worden ist.  
+-Auf Grund dieser Feststellung hat der Parlamentarische Rat, vertreten durch seinen Präsidenten, das Grundgesetz ausgefertigt und verkündet.  
+-Das Grundgesetz wird hiermit gemäß [Artikel 145 Absatz 3](#artikel-145) im Bundesgesetzblatt veröffentlicht:
++Dieser Verfassung-Entwurf diehnt den Auftrag des Grundgesetzes der Bundesrepublik Deutschland im Sinn seiner Verfasser einen Konsens für eine freiheitliche Verfassung vom Deuschen Volk für das Deutsche Volk zu finden. Den Prozess für das Inkrafttreten dieser Verfassung regelt [Artikel 146](#artikel-146).  
++Nach erfolgter Konsensbildung werden eine oder mehrere Entwürfe iterativ zur bundesweiten Volksabstimmung gestellt. Erhält ein Entwurf die Notwendige Mehrheit und das entspechende Quorum, so wird der Entwurf als Verfassung verkündet.  
++Die Verfassung wird gemäß [Artikel 145 Absatz 2](#artikel-145) im Bundesgesetzblatt veröffentlicht:
+ 
+ 
+ # Präambel
+ 
+-Im Bewußtsein seiner Verantwortung vor Gott und den Menschen, von dem Willen beseelt, als gleichberechtigtes Glied in einem vereinten Europa dem Frieden der Welt zu dienen, hat sich das Deutsche Volk kraft seiner verfassungsgebenden Gewalt dieses Grundgesetz gegeben. Die Deutschen in den Ländern Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen haben in freier Selbstbestimmung die Einheit und Freiheit Deutschlands vollendet. Damit gilt dieses Grundgesetz für das gesamte Deutsche Volk.
++Im Bewußtsein seiner Verantwortung vor jedem Individuum und den Menschen, von dem Willen beseelt, als gleichberechtigtes Glied in einer global vernetzen Welt dem Frieden zu dienen, gibt sich das Deutsche Volk kraft seiner Souveränität diese Verfassung im freien Willen. Die Deutschen in den Ländern Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen haben in freier Selbstbestimmung die Einheit und Freiheit Deutschlands vollendet. Damit gilt diese Verfassung nach dem erfolgten Verfassungsbildungsprozess für das gesamte Deutsche Volk.
+ 
+--- a/146.md
++++ b/146.md
+@@ -1,4 +1,3 @@
+ ## Artikel 146
+ 
+-Dieses Grundgesetz, das nach Vollendung der Einheit und Freiheit Deutschlands für das gesamte deutsche Volk gilt, verliert seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung beschlossen worden ist.
+-
++Diese Verfassung tritt in Kraft, wenn dass deutsche Volk als voller Souverän im Bundesgebiet in einer Abstimmung mit einfacher Mehrheit und einem Quorum von 1/2 seinen freien Willen zu diese Ordnung bekundet. Das Grundgesetz als Verfassungsprovisorium der Bundesrepublik Deutschland verliert auf Grund seines Artikel 146 seine Gültigkeit.
+
+--- a/145.md
++++ b/145.md
+@@ -1,6 +1,5 @@
+ ## Artikel 145
+ 
+-(1) Der Parlamentarische Rat stellt in öffentlicher Sitzung unter Mitwirkung der Abgeordneten Groß-Berlins die Annahme dieses Grundgesetzes fest, fertigt es aus und verkündet es.
+-(2) Dieses Grundgesetz tritt mit Ablauf des Tages der Verkündung in Kraft.
+-(3) Es ist im Bundesgesetzblatte zu veröffentlichen.
+-
++(1) Diese Verfassung tritt mit Ablauf des Tages der Auszählung einer erfolgreichen bundesweiten Volksabstimmung in kraft.
++(2) Sie ist im Bundesgesetzblatte zu veröffentlichen.
++(3) Die Bundesgesetze sind infolgedessen vom aktuellen Bundestag und Bundesrat abzuändern
+--- a/144.md
++++ b/144.md
+@@ -1,5 +1,4 @@
+ ## Artikel 144
+ 
+-(1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
+-(2) Soweit die Anwendung dieses Grundgesetzes in einem der in [Artikel 23](#artikel-23) aufgeführten Länder oder in einem Teile eines dieser Länder Beschränkungen unterliegt, hat das Land oder der Teil des Landes das Recht, gemäß [Artikel 38](#artikel-38) Vertreter in den Bundestag und gemäß [Artikel 50](#artikel-50) Vertreter in den Bundesrat zu entsenden.
++Soweit die Anwendung dieser Verfassung in einem der in [Artikel 23](#artikel-23) aufgeführten Länder oder in einem Teile eines dieser Länder Beschränkungen unterliegt, hat das Land oder der Teil des Landes das Recht, gemäß [Artikel 38](#artikel-38) Vertreter in den Bundestag und gemäß [Artikel 50](#artikel-50) Vertreter in den Bundesrat zu entsenden.
+ 
+
+--- a/020.md
++++ b/020.md
+@@ -2,8 +2,8 @@
+ 
+ ## Artikel 20
+ 
+-(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
+-(2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
++(1) Die Bundesrepublik Deutschland ist ein souveräner, demokratischer, marktwirtschaftlicher und sozialer Bundesstaat. Der Souverän ist das Volk.
++(2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und bundesweiten Volksabstimmungen und durch besondere gewählte Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+ (3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+ (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.
+ 
+--- a/023.md
++++ b/023.md
+@@ -1,6 +1,6 @@
+ ## Artikel 23
+ 
+-(1) Zur Verwirklichung eines vereinten Europas wirkt die Bundesrepublik Deutschland bei der Entwicklung der Europäischen Union mit, die demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen und dem Grundsatz der Subsidiarität verpflichtet ist und einen diesem Grundgesetz im wesentlichen vergleichbaren Grundrechtsschutz gewährleistet. Der Bund kann hierzu durch Gesetz mit Zustimmung des Bundesrates Hoheitsrechte übertragen. Für die Begründung der Europäischen Union sowie für Änderungen ihrer vertraglichen Grundlagen und vergleichbare Regelungen, durch die dieses Grundgesetz seinem Inhalt nach geändert oder ergänzt wird oder solche Änderungen oder Ergänzungen ermöglicht werden, gilt [Artikel 79 Abs. 2 und 3](#artikel-79).
++(1) Zur Verwirklichung eines vereinten Europas wirkt die Bundesrepublik Deutschland bei der Entwicklung der Europäischen Union mit, die demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen und dem Grundsatz der Subsidiarität verpflichtet ist und einen dieser Verfassung im wesentlichen vergleichbaren Grundrechtsschutz gewährleistet. Die Hoheitsrechte des Bundes sind nicht auf die Europäischen Union oder anderen Organisationen übertragbar. Für die Begründung der Europäischen Union sowie für Änderungen ihrer vertraglichen Grundlagen und vergleichbare Regelungen, durch die dieses Grundgesetz seinem Inhalt nach geändert oder ergänzt wird oder solche Änderungen oder Ergänzungen ermöglicht werden, gilt [Artikel 79 Abs. 2 und 3](#artikel-79).
+ (1a) Der Bundestag und der Bundesrat haben das Recht, wegen Verstoßes eines Gesetzgebungsakts der Europäischen Union gegen das Subsidiaritätsprinzip vor dem Gerichtshof der Europäischen Union Klage zu erheben. Der Bundestag ist hierzu auf Antrag eines Viertels seiner Mitglieder verpflichtet. Durch Gesetz, das der Zustimmung des Bundesrates bedarf, können für die Wahrnehmung der Rechte, die dem Bundestag und dem Bundesrat in den vertraglichen Grundlagen der Europäischen Union eingeräumt sind, Ausnahmen von [Artikel 42 Abs. 2 Satz 1](#artikel-42) und [Artikel 52 Abs. 3 Satz 1](#artikel-52) zugelassen werden.
+ (2) In Angelegenheiten der Europäischen Union wirken der Bundestag und durch den Bundesrat die Länder mit. Die Bundesregierung hat den Bundestag und den Bundesrat umfassend und zum frühestmöglichen Zeitpunkt zu unterrichten.
+ (3) Die Bundesregierung gibt dem Bundestag Gelegenheit zur Stellungnahme vor ihrer Mitwirkung an Rechtsetzungsakten der Europäischen Union. Die Bundesregierung berücksichtigt die Stellungnahmen des Bundestages bei den Verhandlungen. Das Nähere regelt ein Gesetz.
+--- a/019.md
++++ b/019.md
+@@ -1,6 +1,6 @@
+ ## Artikel 19
+ 
+-(1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen.
++(1) Soweit nach dieser Verfassung ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen.
+ (2) In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden.
+ (3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind.
+ (4) Wird jemand durch die öffentliche Gewalt in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben. [Artikel 10 Abs. 2 Satz 2](#artikel-10) bleibt unberührt.
+--- a/028.md
++++ b/028.md
+@@ -1,6 +1,6 @@
+ ## Artikel 28
+ 
+-(1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten.
++(1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieser Verfassung entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten.
+ (2) Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze das Recht der Selbstverwaltung. Die Gewährleistung der Selbstverwaltung umfaßt auch die Grundlagen der finanziellen Eigenverantwortung; zu diesen Grundlagen gehört eine den Gemeinden mit Hebesatzrecht zustehende wirtschaftskraftbezogene Steuerquelle.
+ (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.
+ 
+--- a/030.md
++++ b/030.md
+@@ -1,4 +1,4 @@
+ ## Artikel 30
+ 
+-Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.
++Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit diese Verfassung keine andere Regelung trifft oder zuläßt.
+ 
+--- a/037.md
++++ b/037.md
+@@ -1,5 +1,5 @@
+ ## Artikel 37
+ 
+-(1) Wenn ein Land die ihm nach dem Grundgesetze oder einem anderen Bundesgesetze obliegenden Bundespflichten nicht erfüllt, kann die Bundesregierung mit Zustimmung des Bundesrates die notwendigen Maßnahmen treffen, um das Land im Wege des Bundeszwanges zur Erfüllung seiner Pflichten anzuhalten.
++(1) Wenn ein Land die ihm nach der Verfassung oder einem anderen Bundesgesetze obliegenden Bundespflichten nicht erfüllt, kann die Bundesregierung mit Zustimmung des Bundesrates die notwendigen Maßnahmen treffen, um das Land im Wege des Bundeszwanges zur Erfüllung seiner Pflichten anzuhalten.
+ (2) Zur Durchführung des Bundeszwanges hat die Bundesregierung oder ihr Beauftragter das Weisungsrecht gegenüber allen Ländern und ihren Behörden.
+ 
+--- a/042.md
++++ b/042.md
+@@ -1,6 +1,6 @@
+ ## Artikel 42
+ 
+ (1) Der Bundestag verhandelt öffentlich. Auf Antrag eines Zehntels seiner Mitglieder oder auf Antrag der Bundesregierung kann mit Zweidrittelmehrheit die Öffentlichkeit ausgeschlossen werden. Über den Antrag wird in nichtöffentlicher Sitzung entschieden.
+-(2) Zu einem Beschlusse des Bundestages ist die Mehrheit der abgegebenen Stimmen erforderlich, soweit dieses Grundgesetz nichts anderes bestimmt. Für die vom Bundestage vorzunehmenden Wahlen kann die Geschäftsordnung Ausnahmen zulassen.
++(2) Zu einem Beschlusse des Bundestages ist die Mehrheit der abgegebenen Stimmen erforderlich, soweit diese Verfassung nichts anderes bestimmt. Für die vom Bundestage vorzunehmenden Wahlen kann die Geschäftsordnung Ausnahmen zulassen.
+ (3) Wahrheitsgetreue Berichte über die öffentlichen Sitzungen des Bundestages und seiner Ausschüsse bleiben von jeder Verantwortlichkeit frei.
+ 
+diff --git a/056.md b/056.md
+index a78a608..9b58db8 100644
+--- a/056.md
++++ b/056.md
+@@ -1,6 +1,6 @@
+ ## Artikel 56
+ 
+ Der Bundespräsident leistet bei seinem Amtsantritt vor den versammelten Mitgliedern des Bundestages und des Bundesrates folgenden Eid:  
+-"Ich schwöre, daß ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe."  
++"Ich schwöre, daß ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, der Verfassung und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir die Götter helfen."  
+ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+ 
+diff --git a/061.md b/061.md
+index 8ceceaa..d9c51c8 100644
+--- a/061.md
++++ b/061.md
+@@ -1,5 +1,5 @@
+ ## Artikel 61
+ 
+-(1) Der Bundestag oder der Bundesrat können den Bundespräsidenten wegen vorsätzlicher Verletzung des Grundgesetzes oder eines anderen Bundesgesetzes vor dem Bundesverfassungsgericht anklagen. Der Antrag auf Erhebung der Anklage muß von mindestens einem Viertel der Mitglieder des Bundestages oder einem Viertel der Stimmen des Bundesrates gestellt werden. Der Beschluß auf Erhebung der Anklage bedarf der Mehrheit von zwei Dritteln der Mitglieder des Bundestages oder von zwei Dritteln der Stimmen des Bundesrates. Die Anklage wird von einem Beauftragten der anklagenden Körperschaft vertreten.
+-(2) Stellt das Bundesverfassungsgericht fest, daß der Bundespräsident einer vorsätzlichen Verletzung des Grundgesetzes oder eines anderen Bundesgesetzes schuldig ist, so kann es ihn des Amtes für verlustig erklären. Durch einstweilige Anordnung kann es nach der Erhebung der Anklage bestimmen, daß er an der Ausübung seines Amtes verhindert ist.
++(1) Der Bundestag oder der Bundesrat können den Bundespräsidenten wegen vorsätzlicher Verletzung der Verfassung oder eines anderen Bundesgesetzes vor dem Bundesverfassungsgericht anklagen. Der Antrag auf Erhebung der Anklage muß von mindestens einem Viertel der Mitglieder des Bundestages oder einem Viertel der Stimmen des Bundesrates gestellt werden. Der Beschluß auf Erhebung der Anklage bedarf der Mehrheit von zwei Dritteln der Mitglieder des Bundestages oder von zwei Dritteln der Stimmen des Bundesrates. Die Anklage wird von einem Beauftragten der anklagenden Körperschaft vertreten.
++(2) Stellt das Bundesverfassungsgericht fest, daß der Bundespräsident einer vorsätzlichen Verletzung der Verfassung oder eines anderen Bundesgesetzes schuldig ist, so kann es ihn des Amtes für verlustig erklären. Durch einstweilige Anordnung kann es nach der Erhebung der Anklage bestimmen, daß er an der Ausübung seines Amtes verhindert ist.
+ 
+diff --git a/070.md b/070.md
+index 2b45c7a..f1a4e66 100644
+--- a/070.md
++++ b/070.md
+@@ -2,6 +2,6 @@
+ 
+ ## Artikel 70
+ 
+-(1) Die Länder haben das Recht der Gesetzgebung, soweit dieses Grundgesetz nicht dem Bunde Gesetzgebungsbefugnisse verleiht.
++(1) Die Länder haben das Recht der Gesetzgebung, soweit diese Verfassung nicht dem Bunde Gesetzgebungsbefugnisse verleiht.
+ (2) Die Abgrenzung der Zuständigkeit zwischen Bund und Ländern bemißt sich nach den Vorschriften dieses Grundgesetzes über die ausschließliche und die konkurrierende Gesetzgebung.
+ 
+--- a/076.md
++++ b/076.md
+@@ -1,6 +1,6 @@
+ ## Artikel 76
+ 
+ (1) Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
+-(2) Vorlagen der Bundesregierung sind zunächst dem Bundesrate zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs Wochen zu diesen Vorlagen Stellung zu nehmen. Verlangt er aus wichtigem Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage, eine Fristverlängerung, so beträgt die Frist neun Wochen. Die Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat ausnahmsweise als besonderes eilbedürftig bezeichnet hat, nach drei Wochen oder, wenn der Bundesrat ein Verlangen nach Satz 3 geäußert hat, nach sechs Wochen dem Bundestag zuleiten, auch wenn die Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie hat die Stellungnahme des Bundesrates unverzüglich nach Eingang dem Bundestag nachzureichen. Bei Vorlagen zur Änderung dieses Grundgesetzes und zur Übertragung von Hoheitsrechten nach [Artikel 23](#artikel-23) oder [Artikel 24](#artikel-24) beträgt die Frist zur Stellungnahme neun Wochen; Satz 4 findet keine Anwendung.
+-(3) Vorlagen des Bundesrates sind dem Bundestage durch die Bundesregierung innerhalb von drei Monaten zuzuleiten. Sie soll hierbei ihre Auffassung darlegen. Verlangt sie aus wichtigem Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage, eine Fristverlängerung, so beträgt die Frist neun Wochen. Wenn der Bundesrat eine Vorlage ausnahmsweise als besonders eilbedürftig bezeichnet hat, beträgt die Frist drei Wochen oder, wenn die Bundesregierung ein Verlangen nach Satz 3 geäußert hat, sechs Wochen. Bei Vorlagen zur Änderung dieses Grundgesetzes und zur Übertragung von Hoheitsrechten nach [Artikel 23](#artikel-23) oder [Artikel 24](#artikel-24) beträgt die Frist neun Wochen; Satz 4 findet keine Anwendung. Der Bundestag hat über die Vorlagen in angemessener Frist zu beraten und Beschluß zu fassen.
++(2) Vorlagen der Bundesregierung sind zunächst dem Bundesrate zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs Wochen zu diesen Vorlagen Stellung zu nehmen. Verlangt er aus wichtigem Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage, eine Fristverlängerung, so beträgt die Frist neun Wochen. Die Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat ausnahmsweise als besonderes eilbedürftig bezeichnet hat, nach drei Wochen oder, wenn der Bundesrat ein Verlangen nach Satz 3 geäußert hat, nach sechs Wochen dem Bundestag zuleiten, auch wenn die Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie hat die Stellungnahme des Bundesrates unverzüglich nach Eingang dem Bundestag nachzureichen. Bei Vorlagen zur Änderung dieser Verfassung und zur Übertragung von Hoheitsrechten nach [Artikel 23](#artikel-23) oder [Artikel 24](#artikel-24) beträgt die Frist zur Stellungnahme neun Wochen; Satz 4 findet keine Anwendung.
++(3) Vorlagen des Bundesrates sind dem Bundestage durch die Bundesregierung innerhalb von drei Monaten zuzuleiten. Sie soll hierbei ihre Auffassung darlegen. Verlangt sie aus wichtigem Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage, eine Fristverlängerung, so beträgt die Frist neun Wochen. Wenn der Bundesrat eine Vorlage ausnahmsweise als besonders eilbedürftig bezeichnet hat, beträgt die Frist drei Wochen oder, wenn die Bundesregierung ein Verlangen nach Satz 3 geäußert hat, sechs Wochen. Bei Vorlagen zur Änderung dieses Verfassung und zur Übertragung von Hoheitsrechten nach [Artikel 23](#artikel-23) oder [Artikel 24](#artikel-24) beträgt die Frist neun Wochen; Satz 4 findet keine Anwendung. Der Bundestag hat über die Vorlagen in angemessener Frist zu beraten und Beschluß zu fassen.
+ 
+diff --git a/079.md b/079.md
+index 21e3e22..263c173 100644
+--- a/079.md
++++ b/079.md
+@@ -1,6 +1,6 @@
+ ## Artikel 79
+ 
+-(1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt. Bei völkerrechtlichen Verträgen, die eine Friedensregelung, die Vorbereitung einer Friedensregelung oder den Abbau einer besatzungsrechtlichen Ordnung zum Gegenstand haben oder der Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur Klarstellung, daß die Bestimmungen des Grundgesetzes dem Abschluß und dem Inkraftsetzen der Verträge nicht entgegenstehen, eine Ergänzung des Wortlautes des Grundgesetzes, die sich auf diese Klarstellung beschränkt.
++(1) Die Verfassung kann nur durch ein Gesetz geändert werden, das den Wortlaut der Verfassung ausdrücklich ändert oder ergänzt. Bei völkerrechtlichen Verträgen, die eine Friedensregelung, die Vorbereitung einer Friedensregelung oder den Abbau einer besatzungsrechtlichen Ordnung zum Gegenstand haben oder der Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur Klarstellung, daß die Bestimmungen der Verfassung dem Abschluß und dem Inkraftsetzen der Verträge nicht entgegenstehen, eine Ergänzung des Wortlautes der Verfassung, die sich auf diese Klarstellung beschränkt.
+ (2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der Mitglieder des Bundestages und zwei Dritteln der Stimmen des Bundesrates.
+-(3) Eine Änderung dieses Grundgesetzes, durch welche die Gliederung des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung oder die in den Artikeln [1](#artikel-1) und [20](#artikel-20) niedergelegten Grundsätze berührt werden, ist unzulässig.
++(3) Eine Änderung dieser Verfassung, durch welche die Gliederung des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung oder die in den Artikeln [1](#artikel-1) und [20](#artikel-20) niedergelegten Grundsätze berührt werden, ist unzulässig.
+ 
+--- a/080a.md
++++ b/080a.md
+@@ -1,6 +1,6 @@
+ ## Artikel 80a
+ 
+-(1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels angewandt werden dürfen, so ist die Anwendung außer im Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des Spannungsfalles festgestellt oder wenn er der Anwendung besonders zugestimmt hat. Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des [Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2](#artikel-12a) bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.
++(1) Ist in dieser Verfassung oder in einem Bundesgesetz über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels angewandt werden dürfen, so ist die Anwendung außer im Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des Spannungsfalles festgestellt oder wenn er der Anwendung besonders zugestimmt hat. Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des [Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2](#artikel-12a) bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.
+ (2) Maßnahmen auf Grund von Rechtsvorschriften nach Absatz 1 sind aufzuheben, wenn der Bundestag es verlangt.
+ (3) Abweichend von Absatz 1 ist die Anwendung solcher Rechtsvorschriften auch auf der Grundlage und nach Maßgabe eines Beschlusses zulässig, der von einem internationalen Organ im Rahmen eines Bündnisvertrages mit Zustimmung der Bundesregierung gefaßt wird. Maßnahmen nach diesem Absatz sind aufzuheben, wenn der Bundestag es mit der Mehrheit seiner Mitglieder verlangt.
+ 
+diff --git a/081.md b/081.md
+index db01a10..d4d8207 100644
+--- a/081.md
++++ b/081.md
+@@ -3,5 +3,5 @@
+ (1) Wird im Falle des [Artikels 68](#artikel-68) der Bundestag nicht aufgelöst, so kann der Bundespräsident auf Antrag der Bundesregierung mit Zustimmung des Bundesrates für eine Gesetzesvorlage den Gesetzgebungsnotstand erklären, wenn der Bundestag sie ablehnt, obwohl die Bundesregierung sie als dringlich bezeichnet hat. Das gleiche gilt, wenn eine Gesetzesvorlage abgelehnt worden ist, obwohl der Bundeskanzler mit ihr den Antrag des [Artikels 68](#artikel-68) verbunden hatte.
+ (2) Lehnt der Bundestag die Gesetzesvorlage nach Erklärung des Gesetzgebungsnotstandes erneut ab oder nimmt er sie in einer für die Bundesregierung als unannehmbar bezeichneten Fassung an, so gilt das Gesetz als zustande gekommen, soweit der Bundesrat ihm zustimmt. Das gleiche gilt, wenn die Vorlage vom Bundestage nicht innerhalb von vier Wochen nach der erneuten Einbringung verabschiedet wird.
+ (3) Während der Amtszeit eines Bundeskanzlers kann auch jede andere vom Bundestage abgelehnte Gesetzesvorlage innerhalb einer Frist von sechs Monaten nach der ersten Erklärung des Gesetzgebungsnotstandes gemäß Absatz 1 und 2 verabschiedet werden. Nach Ablauf der Frist ist während der Amtszeit des gleichen Bundeskanzlers eine weitere Erklärung des Gesetzgebungsnotstandes unzulässig.
+-(4) Das Grundgesetz darf durch ein Gesetz, das nach Absatz 2 zustande kommt, weder geändert noch ganz oder teilweise außer Kraft oder außer Anwendung gesetzt werden.
++(4) Die Verfassung darf durch ein Gesetz, das nach Absatz 2 zustande kommt, weder geändert noch ganz oder teilweise außer Kraft oder außer Anwendung gesetzt werden.
+ 
+diff --git a/082.md b/082.md
+index 8ccad86..7523284 100644
+--- a/082.md
++++ b/082.md
+@@ -1,5 +1,5 @@
+ ## Artikel 82
+ 
+-(1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt und im Bundesgesetzblatte verkündet. Rechtsverordnungen werden von der Stelle, die sie erläßt, ausgefertigt und vorbehaltlich anderweitiger gesetzlicher Regelung im Bundesgesetzblatte verkündet.
++(1) Die nach den Vorschriften dieser Verfassung zustande gekommenen Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt und im Bundesgesetzblatte verkündet. Rechtsverordnungen werden von der Stelle, die sie erläßt, ausgefertigt und vorbehaltlich anderweitiger gesetzlicher Regelung im Bundesgesetzblatte verkündet.
+ (2) Jedes Gesetz und jede Rechtsverordnung soll den Tag des Inkrafttretens bestimmen. Fehlt eine solche Bestimmung, so treten sie mit dem vierzehnten Tage nach Ablauf des Tages in Kraft, an dem das Bundesgesetzblatt ausgegeben worden ist.
+ 
+diff --git a/083.md b/083.md
+index 9cc26ce..be6543a 100644
+--- a/083.md
++++ b/083.md
+@@ -2,5 +2,5 @@
+ 
+ ## Artikel 83
+ 
+-Die Länder führen die Bundesgesetze als eigene Angelegenheit aus, soweit dieses Grundgesetz nichts anderes bestimmt oder zuläßt.
++Die Länder führen die Bundesgesetze als eigene Angelegenheit aus, soweit diese Verfassung nichts anderes bestimmt oder zuläßt.
+ 
+--- a/087a.md
++++ b/087a.md
+@@ -1,7 +1,7 @@
+ ## Artikel 87a
+ 
+ (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben.
+-(2) Außer zur Verteidigung dürfen die Streitkräfte nur eingesetzt werden, soweit dieses Grundgesetz es ausdrücklich zuläßt.
++(2) Außer zur Verteidigung dürfen die Streitkräfte nur eingesetzt werden, soweit diese Verfassung es ausdrücklich zuläßt.
+ (3) Die Streitkräfte haben im Verteidigungsfalle und im Spannungsfalle die Befugnis, zivile Objekte zu schützen und Aufgaben der Verkehrsregelung wahrzunehmen, soweit dies zur Erfüllung ihres Verteidigungsauftrages erforderlich ist. Außerdem kann den Streitkräften im Verteidigungsfalle und im Spannungsfalle der Schutz ziviler Objekte auch zur Unterstützung polizeilicher Maßnahmen übertragen werden; die Streitkräfte wirken dabei mit den zuständigen Behörden zusammen.
+ (4) Zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes kann die Bundesregierung, wenn die Voraussetzungen des [Artikels 91 Abs. 2](#artikel-91) vorliegen und die Polizeikräfte sowie der Bundesgrenzschutz nicht ausreichen, Streitkräfte zur Unterstützung der Polizei und des Bundesgrenzschutzes beim Schutze von zivilen Objekten und bei der Bekämpfung organisierter und militärisch bewaffneter Aufständischer einsetzen. Der Einsatz von Streitkräften ist einzustellen, wenn der Bundestag oder der Bundesrat es verlangen.
+ 
+diff --git a/092.md b/092.md
+index f838735..39abe6c 100644
+--- a/092.md
++++ b/092.md
+@@ -2,5 +2,5 @@
+ 
+ ## Artikel 92
+ 
+-Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bundesverfassungsgericht, durch die in diesem Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der Länder ausgeübt.
++Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bundesverfassungsgericht, durch die in dieser Verfassung vorgesehenen Bundesgerichte und durch die Gerichte der Länder ausgeübt.
+ 
+diff --git a/093.md b/093.md
+index 0c79e78..6717fb7 100644
+--- a/093.md
++++ b/093.md
+@@ -1,15 +1,15 @@
+ ## Artikel 93
+ 
+ (1) Das Bundesverfassungsgericht entscheidet:
+-    1. über die Auslegung dieses Grundgesetzes aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch dieses Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind;
+-    2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages;
++    1. über die Auslegung dieser Verfassung aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch diese Verfassung oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind;
++    2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit dieser Verfassung oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages;
+     2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des [Artikels 72 Abs. 2](#artikel-72) entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes;
+     3. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht;
+     4. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bunde und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist;
+     4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt in einem seiner Grundrechte oder in einem seiner in [Artikel 20 Abs. 4](#artikel-20), [33](#artikel-33), [38](#artikel-38), [101](#artikel-101), [103](#artikel-103) und [104](#artikel-104) enthaltenen Rechte verletzt zu sein;
+     4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen Verletzung des Rechts auf Selbstverwaltung nach [Artikel 28](#artikel-28) durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim Landesverfassungsgericht erhoben werden kann;
+     4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag;
+-    5. in den übrigen in diesem Grundgesetze vorgesehenen Fällen.
++    5. in den übrigen in dieser Verfassung vorgesehenen Fällen.
+ (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes, ob im Falle des [Artikel 72 Abs. 4](#artikel-72) die Erforderlichkeit für eine bundesgesetzliche Regelung nach [Artikel 72 Abs. 2](#artikel-72) nicht mehr besteht oder Bundesrecht in den Fällen des [Artikel 125a Abs. 2 Satz 1](#artikel-125a) nicht mehr erlassen werden könnte. Die Feststellung, dass die Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen werden könnte, ersetzt ein Bundesgesetz nach [Artikel 72 Abs. 4](#artikel-72) oder nach [Artikel 125a Abs. 2 Satz 2](#artikel-125a). Der Antrag nach Satz 1 ist nur zulässig, wenn eine Gesetzesvorlage nach [Artikel 72 Abs. 4](#artikel-72) oder nach [Artikel 125a Abs. 2 Satz 2](#artikel-72) im Bundestag abgelehnt oder über sie nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.
+ (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig.
+ 
+--- a/098.md
++++ b/098.md
+@@ -1,7 +1,7 @@
+ ## Artikel 98
+ 
+ (1) Die Rechtsstellung der Bundesrichter ist durch besonderes Bundesgesetz zu regeln.
+-(2) Wenn ein Bundesrichter im Amte oder außerhalb des Amtes gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung eines Landes verstößt, so kann das Bundesverfassungsgericht mit Zweidrittelmehrheit auf Antrag des Bundestages anordnen, daß der Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist. Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt werden.
++(2) Wenn ein Bundesrichter im Amte oder außerhalb des Amtes gegen die Grundsätze der Verfassung oder gegen die verfassungsmäßige Ordnung eines Landes verstößt, so kann das Bundesverfassungsgericht mit Zweidrittelmehrheit auf Antrag des Bundestages anordnen, daß der Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist. Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt werden.
+ (3) Die Rechtsstellung der Richter in den Ländern ist durch besondere Landesgesetze zu regeln, soweit [Artikel 74 Abs. 1 Nr. 27](#artikel-74) nichts anderes bestimmt.
+ (4) Die Länder können bestimmen, daß über die Anstellung der Richter in den Ländern der Landesjustizminister gemeinsam mit einem Richterwahlausschuß entscheidet.
+ (5) Die Länder können für Landesrichter eine Absatz 2 entsprechende Regelung treffen. Geltendes Landesverfassungsrecht bleibt unberührt. Die Entscheidung über eine Richteranklage steht dem Bundesverfassungsgericht zu.
+--- a/100.md
++++ b/100.md
+@@ -1,6 +1,6 @@
+ ## Artikel 100
+ 
+-(1) Hält ein Gericht ein Gesetz, auf dessen Gültigkeit es bei der Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren auszusetzen und, wenn es sich um die Verletzung der Verfassung eines Landes handelt, die Entscheidung des für Verfassungsstreitigkeiten zuständigen Gerichtes des Landes, wenn es sich um die Verletzung dieses Grundgesetzes handelt, die Entscheidung des Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich um die Verletzung dieses Grundgesetzes durch Landesrecht oder um die Unvereinbarkeit eines Landesgesetzes mit einem Bundesgesetze handelt.
++(1) Hält ein Gericht ein Gesetz, auf dessen Gültigkeit es bei der Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren auszusetzen und, wenn es sich um die Verletzung der Verfassung eines Landes handelt, die Entscheidung des für Verfassungsstreitigkeiten zuständigen Gerichtes des Landes, wenn es sich um die Verletzung dieser Verfassung handelt, die Entscheidung des Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich um die Verletzung dieser Verfassung durch Landesrecht oder um die Unvereinbarkeit eines Landesgesetzes mit einem Bundesgesetze handelt.
+ (2) Ist in einem Rechtsstreite zweifelhaft, ob eine Regel des Völkerrechtes Bestandteil des Bundesrechtes ist und ob sie unmittelbar Rechte und Pflichten für den Einzelnen erzeugt ([Artikel 25](#artikel-25)), so hat das Gericht die Entscheidung des Bundesverfassungsgerichtes einzuholen.
+-(3) Will das Verfassungsgericht eines Landes bei der Auslegung des Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichtes oder des Verfassungsgerichtes eines anderen Landes abweichen, so hat das Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes einzuholen;
++(3) Will das Verfassungsgericht eines Landes bei der Auslegung der Verfassung von einer Entscheidung des Bundesverfassungsgerichtes oder des Verfassungsgerichtes eines anderen Landes abweichen, so hat das Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes einzuholen;
+ 
+diff --git a/104a.md b/104a.md
+index e412e4b..f75e8e7 100644
+--- a/104a.md
++++ b/104a.md
+@@ -1,6 +1,6 @@
+ ## Artikel 104a
+ 
+-(1) Der Bund und die Länder tragen gesondert die Ausgaben, die sich aus der Wahrnehmung ihrer Aufgaben ergeben, soweit dieses Grundgesetz nichts anderes bestimmt.
++(1) Der Bund und die Länder tragen gesondert die Ausgaben, die sich aus der Wahrnehmung ihrer Aufgaben ergeben, soweit diese Verfassung nichts anderes bestimmt.
+ (2) Handeln die Länder im Auftrage des Bundes,trägt der Bund die sich daraus ergebenden Ausgaben.
+ (3) Bundesgesetze, die Geldleistungen gewähren und von den Ländern ausgeführt werden, können bestimmen, daß die Geldleistungen ganz oder zum Teil vom Bund getragen werden. Bestimmt das Gesetz, daß der Bund die Hälfte der Ausgaben oder mehr trägt, wird es im Auftrage des Bundes durchgeführt. Bestimmt das Gesetz, daß die Länder ein Viertel der Ausgaben oder mehr tragen, so bedarf es der Zustimmung des Bundesrates.
+ (4) Bundesgesetze, die Pflichten der Länder zur Erbringung von Geldleistungen, geldwerten Sachleistungen oder vergleichbaren Dienstleistungen gegenüber Dritten begründen und von den Ländern als eigene Angelegenheit oder nach Absatz 3 Satz 2 im Auftrag des Bundes ausgeführt werden, bedürfen der Zustimmung des Bundesrates, wenn daraus entstehende Ausgaben von den Ländern zu tragen sind.
+diff --git a/104b.md b/104b.md
+index 21c6786..9c722fa 100644
+--- a/104b.md
++++ b/104b.md
+@@ -1,6 +1,6 @@
+ ## Artikel 104b
+ 
+-(1) Der Bund kann soweit dieses Grundgesetz ihm Gesetzgebungsbefugnisse verleiht, den Ländern Finanzhilfen für besonders bedeutsame Investitionen der Länder und der Gemeinden (Gemeindeverbände) gewähren, die
++(1) Der Bund kann soweit diese Verfassung ihm Gesetzgebungsbefugnisse verleiht, den Ländern Finanzhilfen für besonders bedeutsame Investitionen der Länder und der Gemeinden (Gemeindeverbände) gewähren, die
+     1. zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts oder
+     2. zum Ausgleich unterschiedlicher Wirtschaftskraft im Bundesgebiet oder
+     3. zur Förderung des wirtschaftlichen Wachstums erforderlich sind. Abweichend von Satz 1 kann der Bund im Falle von Naturkatastrophen oder außergewöhnlichen Notsituationen, die sich der Kontrolle des Staates entziehen und die staatliche Finanzlage erheblich beeinträchtigen, auch ohne Gesetzgebungsbefugnisse Finanzhilfen gewähren.
+diff --git a/115e.md b/115e.md
+index 666ec9b..e0d61f6 100644
+--- a/115e.md
++++ b/115e.md
+@@ -1,5 +1,5 @@
+ ## Artikel 115e
+ 
+ (1) Stellt der Gemeinsame Ausschuß im Verteidigungsfalle mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens mit der Mehrheit seiner Mitglieder fest, daß dem rechtzeitigen Zusammentritt des Bundestages unüberwindliche Hindernisse entgegenstehen oder daß dieser nicht beschlußfähig ist, so hat der Gemeinsame Ausschuß die Stellung von Bundestag und Bundesrat und nimmt deren Rechte einheitlich wahr.
+-(2) Durch ein Gesetz des Gemeinsamen Ausschusses darf das Grundgesetz weder geändert noch ganz oder teilweise außer Kraft oder außer Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach [Artikel 23 Abs. 1 Satz 2](#artikel-23), [Artikel 24 Abs. 1](#artikel-24) oder [Artikel 29](#artikel-29) ist der Gemeinsame Ausschuß nicht befugt.
++(2) Durch ein Gesetz des Gemeinsamen Ausschusses darf die Verfassung weder geändert noch ganz oder teilweise außer Kraft oder außer Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach [Artikel 23 Abs. 1 Satz 2](#artikel-23), [Artikel 24 Abs. 1](#artikel-24) oder [Artikel 29](#artikel-29) ist der Gemeinsame Ausschuß nicht befugt.
+ 
+--- a/116.md
++++ b/116.md
+@@ -2,6 +2,6 @@
+ 
+ ## Artikel 116
+ 
+-(1) Deutscher im Sinne dieses Grundgesetzes ist vorbehaltlich anderweitiger gesetzlicher Regelung, wer die deutsche Staatsangehörigkeit besitzt oder als Flüchtling oder Vertriebener deutscher Volkszugehörigkeit oder als dessen Ehegatte oder Abkömmling in dem Gebiete des Deutschen Reiches nach dem Stande vom 31. Dezember 1937 Aufnahme gefunden hat.
++(1) Deutscher im Sinne dieser Verfassung ist vorbehaltlich anderweitiger gesetzlicher Regelung, wer die deutsche Staatsangehörigkeit besitzt oder als Flüchtling oder Vertriebener deutscher Volkszugehörigkeit oder als dessen Ehegatte oder Abkömmling in dem Gebiete des Deutschen Reiches nach dem Stande vom 31. Dezember 1937 Aufnahme gefunden hat.
+ (2) Frühere deutsche Staatsangehörige, denen zwischen dem 30. Januar 1933 und dem 8. Mai 1945 die Staatsangehörigkeit aus politischen, rassischen oder religiösen Gründen entzogen worden ist, und ihre Abkömmlinge sind auf Antrag wieder einzubürgern. Sie gelten als nicht ausgebürgert, sofern sie nach dem 8. Mai 1945 ihren Wohnsitz in Deutschland genommen haben und nicht einen entgegengesetzten Willen zum Ausdruck gebracht haben.
+ 
+diff --git a/117.md b/117.md
+index 45c0d30..96ed495 100644
+--- a/117.md
++++ b/117.md
+@@ -1,5 +1,5 @@
+ ## Artikel 117
+ 
+-(1) Das dem [Artikel 3 Absatz 2](#artikel-3) entgegenstehende Recht bleibt bis zu seiner Anpassung an diese Bestimmung des Grundgesetzes in Kraft, jedoch nicht länger als bis zum 31. März 1953.
++(1) Das dem [Artikel 3 Absatz 2](#artikel-3) entgegenstehende Recht bleibt bis zu seiner Anpassung an diese Bestimmung der Verfassung in Kraft, jedoch nicht länger als bis zum 31. März 1953.
+ (2) Gesetze, die das Recht der Freizügigkeit mit Rücksicht auf die gegenwärtige Raumnot einschränken, bleiben bis zu ihrer Aufhebung durch Bundesgesetz in Kraft.
+ 
+diff --git a/121.md b/121.md
+index 19e84b4..4a740e1 100644
+--- a/121.md
++++ b/121.md
+@@ -1,4 +1,4 @@
+ ## Artikel 121
+ 
+-Mehrheit der Mitglieder des Bundestages und der Bundesversammlung im Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen Mitgliederzahl.
++Mehrheit der Mitglieder des Bundestages und der Bundesversammlung im Sinne dieser Verfassung ist die Mehrheit ihrer gesetzlichen Mitgliederzahl.
+ 
+diff --git a/122.md b/122.md
+index bc41a7d..c204f79 100644
+--- a/122.md
++++ b/122.md
+@@ -1,5 +1,5 @@
+ ## Artikel 122
+ 
+-(1) Vom Zusammentritt des Bundestages an werden die Gesetze ausschließlich von den in diesem Grundgesetze anerkannten gesetzgebenden Gewalten beschlossen.
++(1) Vom Zusammentritt des Bundestages an werden die Gesetze ausschließlich von den in dieser Verfassung anerkannten gesetzgebenden Gewalten beschlossen.
+ (2) Gesetzgebende und bei der Gesetzgebung beratend mitwirkende Körperschaften, deren Zuständigkeit nach Absatz 1 endet, sind mit diesem Zeitpunkt aufgelöst.
+ 
+diff --git a/123.md b/123.md
+index b310945..3a7a203 100644
+--- a/123.md
++++ b/123.md
+@@ -1,5 +1,5 @@
+ ## Artikel 123
+ 
+-(1) Recht aus der Zeit vor dem Zusammentritt des Bundestages gilt fort, soweit es dem Grundgesetze nicht widerspricht.
+-(2) Die vom Deutschen Reich abgeschlossenen Staatsverträge, die sich auf Gegenstände beziehen, für die nach diesem Grundgesetze die Landesgesetzgebung zuständig ist, bleiben, wenn sie nach allgemeinen Rechtsgrundsätzen gültig sind und fortgelten, unter Vorbehalt aller Rechte und Einwendungen der Beteiligten in Kraft, bis neue Staatsverträge durch die nach diesem Grundgesetze zuständigen Stellen abgeschlossen werden oder ihre Beendigung auf Grund der in ihnen enthaltenen Bestimmungen anderweitig erfolgt.
++(1) Recht aus der Zeit vor dem Zusammentritt des Bundestages gilt fort, soweit es der Verfassung nicht widerspricht.
++(2) Die vom Deutschen Reich abgeschlossenen Staatsverträge, die sich auf Gegenstände beziehen, für die nach dieser Verfassung die Landesgesetzgebung zuständig ist, bleiben, wenn sie nach allgemeinen Rechtsgrundsätzen gültig sind und fortgelten, unter Vorbehalt aller Rechte und Einwendungen der Beteiligten in Kraft, bis neue Staatsverträge durch die nach dieser Verfassung zuständigen Stellen abgeschlossen werden oder ihre Beendigung auf Grund der in ihnen enthaltenen Bestimmungen anderweitig erfolgt.
+ 
+--- a/125c.md
++++ b/125c.md
+@@ -2,4 +2,4 @@
+ 
+ (1) Recht, das auf Grund des [Artikels 91a Abs. 2](#artikel-91a) in Verbindung mit Abs. 1 Nr. 1 in der bis zum 1. September 2006 geltenden Fassung erlassen worden ist, gilt bis zum 31. Dezember 2006 fort.
+ (2) Die nach [Artikel 104a Abs. 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung in den Bereichen der Gemeindeverkehrsfinanzierung und der sozialen Wohnraumförderung geschaffenen Regelungen gelten bis zum 31. Dezember 2006 fort.
+-Die im Bereich der Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6 Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem Gesetz über Finanzhilfen des Bundes nach [Artikel 104a Absatz 4](#artikel-104a) des Grundgesetzes an die Länder Bremen, Hamburg,  Mecklenburg-Vorpommern,  Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember 2001 nach [Artikel 104a Absatz 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer Aufhebung fort. Eine Änderung des Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist ab dem 1. Januar 2025 zulässig. Die sonstigen nach Artikel 104a Absatz 4 in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt ist oder wird.
++Die im Bereich der Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6 Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem Gesetz über Finanzhilfen des Bundes nach [Artikel 104a Absatz 4](#artikel-104a) der Verfassung an die Länder Bremen, Hamburg,  Mecklenburg-Vorpommern,  Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember 2001 nach [Artikel 104a Absatz 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer Aufhebung fort. Eine Änderung des Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist ab dem 1. Januar 2025 zulässig. Die sonstigen nach Artikel 104a Absatz 4 in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt ist oder wird.
+diff --git a/127.md b/127.md
+index 4b1d7f7..a74e1d3 100644
+--- a/127.md
++++ b/127.md
+@@ -1,4 +1,4 @@
+ ## Artikel 127
+ 
+-Die Bundesregierung kann mit Zustimmung der Regierungen der beteiligten Länder Recht der Verwaltung des Vereinigten Wirtschaftsgebietes, soweit es nach [Artikel 124](#artikel-124) oder [125](#artikel-125) als Bundesrecht fortgilt, innerhalb eines Jahres nach Verkündung dieses Grundgesetzes in den Ländern Baden, Groß-Berlin, Rheinland-Pfalz und Württemberg-Hohenzollern in Kraft setzen.
++Die Bundesregierung kann mit Zustimmung der Regierungen der beteiligten Länder Recht der Verwaltung des Vereinigten Wirtschaftsgebietes, soweit es nach [Artikel 124](#artikel-124) oder [125](#artikel-125) als Bundesrecht fortgilt, innerhalb eines Jahres nach Verkündung dieser Verfassung in den Ländern Baden, Groß-Berlin, Rheinland-Pfalz und Württemberg-Hohenzollern in Kraft setzen.
+ 
+diff --git a/132.md b/132.md
+index e0dcf6e..2cc3d00 100644
+--- a/132.md
++++ b/132.md
+@@ -1,6 +1,6 @@
+ ## Artikel 132
+ 
+-(1) Beamte und Richter, die im Zeitpunkte des Inkrafttretens dieses Grundgesetzes auf Lebenszeit angestellt sind, können binnen sechs Monaten nach dem ersten Zusammentritt des Bundestages in den Ruhestand oder Wartestand oder in ein Amt mit niedrigerem Diensteinkommen versetzt werden, wenn ihnen die persönliche oder fachliche Eignung für ihr Amt fehlt. Auf Angestellte, die in einem unkündbaren Dienstverhältnis stehen, findet diese Vorschrift entsprechende Anwendung. Bei Angestellten, deren Dienstverhältnis kündbar ist, können über die tarifmäßige Regelung hinausgehende Kündigungsfristen innerhalb der gleichen Frist aufgehoben werden.
++(1) Beamte und Richter, die im Zeitpunkte des Inkrafttretens dieser Verfassung auf Lebenszeit angestellt sind, können binnen sechs Monaten nach dem ersten Zusammentritt des Bundestages in den Ruhestand oder Wartestand oder in ein Amt mit niedrigerem Diensteinkommen versetzt werden, wenn ihnen die persönliche oder fachliche Eignung für ihr Amt fehlt. Auf Angestellte, die in einem unkündbaren Dienstverhältnis stehen, findet diese Vorschrift entsprechende Anwendung. Bei Angestellten, deren Dienstverhältnis kündbar ist, können über die tarifmäßige Regelung hinausgehende Kündigungsfristen innerhalb der gleichen Frist aufgehoben werden.
+ (2) Diese Bestimmung findet keine Anwendung auf Angehörige des öffentlichen Dienstes, die von den Vorschriften über die "Befreiung von Nationalsozialismus und Militarismus" nicht betroffen oder die anerkannte Verfolgte des Nationalsozialismus sind, sofern nicht ein wichtiger Grund in ihrer Person vorliegt.
+ (3) Den Betroffenen steht der Rechtsweg gemäß [Artikel 19 Absatz 4](#artikel-19) offen.
+ (4) Das Nähere bestimmt eine Verordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf.
+diff --git a/134.md b/134.md
+index a447749..7a7cdca 100644
+--- a/134.md
++++ b/134.md
+@@ -1,7 +1,7 @@
+ ## Artikel 134
+ 
+ (1) Das Vermögen des Reiches wird grundsätzlich Bundesvermögen.
+-(2) Soweit es nach seiner ursprünglichen Zweckbestimmung überwiegend für Verwaltungsaufgaben bestimmt war, die nach diesem Grundgesetze nicht Verwaltungsaufgaben des Bundes sind, ist es unentgeltlich auf die nunmehr zuständigen Aufgabenträger und, soweit es nach seiner gegenwärtigen, nicht nur vorübergehenden Benutzung Verwaltungsaufgaben dient, die nach diesem Grundgesetze nunmehr von den Ländern zu erfüllen sind, auf die Länder zu übertragen. Der Bund kann auch sonstiges Vermögen den Ländern übertragen.
++(2) Soweit es nach seiner ursprünglichen Zweckbestimmung überwiegend für Verwaltungsaufgaben bestimmt war, die nach dieser Verfassung nicht Verwaltungsaufgaben des Bundes sind, ist es unentgeltlich auf die nunmehr zuständigen Aufgabenträger und, soweit es nach seiner gegenwärtigen, nicht nur vorübergehenden Benutzung Verwaltungsaufgaben dient, die nach dieser Verfassung nunmehr von den Ländern zu erfüllen sind, auf die Länder zu übertragen. Der Bund kann auch sonstiges Vermögen den Ländern übertragen.
+ (3) Vermögen, das dem Reich von den Ländern und Gemeinden (Gemeindeverbänden) unentgeltlich zur Verfügung gestellt wurde, wird wiederum Vermögen der Länder und Gemeinden (Gemeindeverbände), soweit es nicht der Bund für eigene Verwaltungsaufgaben benötigt.
+ (4) Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.
+ 
+--- a/135.md
++++ b/135.md
+@@ -1,10 +1,10 @@
+ ## Artikel 135
+ 
+-(1) Hat sich nach dem 8. Mai 1945 bis zum Inkrafttreten dieses Grundgesetzes die Landeszugehörigkeit eines Gebietes geändert, so steht in diesem Gebiete das Vermögen des Landes, dem das Gebiet angehört hat, dem Lande zu, dem es jetzt angehört.
++(1) Hat sich nach dem 8. Mai 1945 bis zum Inkrafttreten dieser Verfassung die Landeszugehörigkeit eines Gebietes geändert, so steht in diesem Gebiete das Vermögen des Landes, dem das Gebiet angehört hat, dem Lande zu, dem es jetzt angehört.
+ (2) Das Vermögen nicht mehr bestehender Länder und nicht mehr bestehender anderer Körperschaften und Anstalten des öffentlichen Rechtes geht, soweit es nach seiner ursprünglichen Zweckbestimmung überwiegend für Verwaltungsaufgaben bestimmt war, oder nach seiner gegenwärtigen, nicht nur vorübergehenden Benutzung überwiegend Verwaltungsaufgaben dient, auf das Land oder die Körperschaft oder Anstalt des öffentlichen Rechtes über, die nunmehr diese Aufgaben erfüllen.
+ (3) Grundvermögen nicht mehr bestehender Länder geht einschließlich des Zubehörs, soweit es nicht bereits zu Vermögen im Sinne des Absatzes 1 gehört, auf das Land über, in dessen Gebiet es belegen ist.
+ (4) Sofern ein überwiegendes Interesse des Bundes oder das besondere Interesse eines Gebietes es erfordert, kann durch Bundesgesetz eine von den Absätzen 1 bis 3 abweichende Regelung getroffen werden.
+ (5) Im übrigen wird die Rechtsnachfolge und die Auseinandersetzung, soweit sie nicht bis zum 1. Januar 1952 durch Vereinbarung zwischen den beteiligten Ländern oder Körperschaften oder Anstalten des öffentlichen Rechtes erfolgt, durch Bundesgesetz geregelt, das der Zustimmung des Bundesrates bedarf.
+ (6) Beteiligungen des ehemaligen Landes Preußen an Unternehmen des privaten Rechtes gehen auf den Bund über. Das Nähere regelt ein Bundesgesetz, das auch Abweichendes bestimmen kann.
+-(7) Soweit über Vermögen, das einem Lande oder einer Körperschaft oder Anstalt des öffentlichen Rechtes nach den Absätzen 1 bis 3 zufallen würde, von dem danach Berechtigten durch ein Landesgesetz, auf Grund eines Landesgesetzes oder in anderer Weise bei Inkrafttreten des Grundgesetzes verfügt worden war, gilt der Vermögensübergang als vor der Verfügung erfolgt.
++(7) Soweit über Vermögen, das einem Lande oder einer Körperschaft oder Anstalt des öffentlichen Rechtes nach den Absätzen 1 bis 3 zufallen würde, von dem danach Berechtigten durch ein Landesgesetz, auf Grund eines Landesgesetzes oder in anderer Weise bei Inkrafttreten der Verfassung verfügt worden war, gilt der Vermögensübergang als vor der Verfügung erfolgt.
+ 
+diff --git a/139.md b/139.md
+index 7bf25f5..a47410a 100644
+--- a/139.md
++++ b/139.md
+@@ -1,4 +1,4 @@
+ ## Artikel 139
+ 
+-Die zur "Befreiung des deutschen Volkes vom Nationalsozialismus und Militarismus" erlassenen Rechtsvorschriften werden von den Bestimmungen dieses Grundgesetzes nicht berührt.
++Die zur "Befreiung des deutschen Volkes vom Nationalsozialismus und Militarismus" erlassenen Rechtsvorschriften der alliierten Siegermächte werden mit Inkrafttreten dieser freiheitlichen Verfassung ungültig.
+ 
+diff --git a/140.md b/140.md
+index 59412bd..5a21dda 100644
+--- a/140.md
++++ b/140.md
+@@ -1,4 +1,4 @@
+ ## Artikel 140
+ 
+-Die Bestimmungen der [Artikel 136](#artikel-136), [137](#artikel-137), [138](#artikel-138), [139](#artikel-139) und [141](#artikel-141) der deutschen Verfassung vom 11. August 1919 sind Bestandteil dieses Grundgesetzes.
++Die Bestimmungen der [Artikel 136](#artikel-136), [137](#artikel-137), [138](#artikel-138), [139](#artikel-139) und [141](#artikel-141) der deutschen Verfassung vom 11. August 1919 sind Bestandteil dieser Verfassung.
+ 
+diff --git a/142.md b/142.md
+index a8a820c..27e8edb 100644
+--- a/142.md
++++ b/142.md
+@@ -1,4 +1,4 @@
+ ## Artikel 142
+ 
+-Ungeachtet der Vorschrift des [Artikels 31](#artikel-31) bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den [Artikeln 1](#artikel-1) bis [18](#artikel-18) dieses Grundgesetzes Grundrechte gewährleisten.
++Ungeachtet der Vorschrift des [Artikels 31](#artikel-31) bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den [Artikeln 1](#artikel-1) bis [18](#artikel-18) dieser Verfassung Grundrechte gewährleisten.
+ 
+--- a/143.md
++++ b/143.md
+@@ -1,6 +1,6 @@
+ ## Artikel 143
+ 
+-(1) Recht in dem in Artikel 3 des Einigungsvertrags genannten Gebiet kann längstens bis zum 31. Dezember 1992 von Bestimmungen dieses Grundgesetzes abweichen, soweit und solange infolge der unterschiedlichen Verhältnisse die völlige Anpassung an die grundgesetzliche Ordnung noch nicht erreicht werden kann. Abweichungen dürfen nicht gegen [Artikel 19 Abs. 2](#artikel-19) verstoßen und müssen mit den in [Artikel 79 Abs. 3](#artikel-79) genannten Grundsätzen vereinbar sein.
++(1) Recht in dem in Artikel 3 des Einigungsvertrags genannten Gebiet kann längstens bis zum 31. Dezember 1992 von Bestimmungen dieser Verfassung abweichen, soweit und solange infolge der unterschiedlichen Verhältnisse die völlige Anpassung an die verfassungsliche Ordnung noch nicht erreicht werden kann. Abweichungen dürfen nicht gegen [Artikel 19 Abs. 2](#artikel-19) verstoßen und müssen mit den in [Artikel 79 Abs. 3](#artikel-79) genannten Grundsätzen vereinbar sein.
+ (2) Abweichungen von den Abschnitten II, VIII, VIIIa, IX, X und XI sind längstens bis zum 31. Dezember 1995 zulässig.
+ (3) Unabhängig von Absatz 1 und 2 haben Artikel 41 des Einigungsvertrags und Regelungen zu seiner Durchführung auch insoweit Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem in Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig gemacht werden.
+ 
