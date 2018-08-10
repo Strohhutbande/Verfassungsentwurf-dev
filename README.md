@@ -1,6 +1,12 @@
-#   Grundgesetz für die Bundesrepublik Deutschland (grundgesetz-dev)
+#   Freier Verfassungsentwurf für die Bundesrepublik Deutschland (Verfassungsentwurf-dev)
 
-Dieses [Repository](https://github.com/c3e/grundgesetz-dev) ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetzestext zuzüglich vieler Informationen, die damit in Verbindung stehen. Somit steht ein umfassendes Werk zur Verfügung, die Entwicklung der deutschen Verfassung transparenter zu machen.
+Dieses [Repository](https://github.com/Strohhutbande/verfassungsentwurf-dev) (dt. Projektarchiv) ist ein Fork (dt. Abspaltung) vom [grundgesetz-dev Repository](https://github.com/bheisig/grundgesetz-dev) und ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetzestext zuzüglich vieler Informationen, die damit in Verbindung stehen. 
+
+Somit stellt dieses Werkzeug eine ideale Basis dar, um im Sinne von Artikel 146 GG einen basisdemokratischen Konsens für eine freiheitliche Verfassung für die Bundesrepublik Deutschland zu finden und die Bugs (dt. technischen Fehler) des Grundgesetzes zu beheben, die über die Hierachiekette nicht zu debuggen sind.
+
+Dieses ist Repository zum forken gedacht.
+
+### Mögen die besten Artikel breiten Konsens finden und sich auf vielen Endgeräten verbreiten.
 
 
 ##  Hintergrund
